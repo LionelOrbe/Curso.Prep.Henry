@@ -1,6 +1,7 @@
 h1{
     color:coral;
-}
+    background-color: black;
+    }
 img{ 
     width: 400px;
 }
@@ -8,10 +9,21 @@ img{
     background-color: brown;
     width: 500px; height: 600px;
     padding: 50px;
-    border: 5px solid peru;
-}
+    border: 5px solid peru; 
+    margin-left: auto;
+    margin-right: auto;
+   }
 #spanId{
     font-size: 18px;
     margin: 50px;
+    background-color: burlywood;
 
+}
+
+html{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/358/398/422/wood-fork-meat-roasted-wallpaper-preview.jpg");
+   }
+
+.divClass{ 
+    text-align: center;
 }
