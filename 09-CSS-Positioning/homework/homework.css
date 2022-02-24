@@ -55,6 +55,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 #ejercicioSiete{
  
-  
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-radius: 10px;
    
 }
